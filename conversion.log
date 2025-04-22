@@ -1,0 +1,25 @@
+nohup: ignoring input
+INFO:__main__:Found 360 PDF files in input folder
+INFO:__main__:Skipping GN_448W_-THE_VAT_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_SUPPLIERS_AMENDMENT_REGULATIONS_2023.pdf as it has already been converted
+INFO:__main__:Skipping c39-application-licensing-vessels-vehicles-conveyance-goods-under-customs-control.pdf as it has already been converted
+INFO:__main__:Skipping Shoprite_Checkers_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_517_of_2020)_2020_TZCA_1894_(14_December_2020).pdf as it has already been converted
+INFO:__main__:Skipping c40-licence-vehicle-or-vessel-conveying-goods-under-customs-control.pdf as it has already been converted
+INFO:__main__:Skipping National_Bank_of_Commerce_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_251_of_2018)_2020_TZCA_309_(16_June_2020).pdf as it has already been converted
+INFO:__main__:Skipping Vodacom_Tanzania_Public_Co_T_Ltd_vs_Commissioner_General_TRA_(Civil_Application_465_of_2019)_2020_TZCA_64_(10_March_2020).pdf as it has already been converted
+INFO:__main__:Skipping CHAPTER_289-THE_LOCAL_GOVERNMENT_AUTHORITIES__RATING__ACT-01.pdf as it has already been converted
+INFO:__main__:Skipping Finland.pdf as it has already been converted
+INFO:__main__:Skipping CHAPTER_332-THE_INCOME_TAX_ACT-1.pdf as it has already been converted
+INFO:__main__:Skipping Calculations_for_Capital_Gains_Tax.pdf as it has already been converted
+INFO:__main__:Skipping Etablissments_Maurel_Prom_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_391_of_2020)_2021_TZCA_629_(2_November_2021).pdf as it has already been converted
+INFO:__main__:349 files need conversion
+INFO:__main__:Processing batch 1/18 with 20 files
+INFO:docling.document_converter:Going to convert document batch...
+INFO:docling.document_converter:Initializing pipeline for StandardPdfPipeline with options hash 70041f74270850b7bedf7c8f5c2dcede
+INFO:docling.models.factories.base_factory:Loading plugin 'docling_defaults'
+INFO:docling.models.factories:Registered ocr engines: ['easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+INFO:docling.utils.accelerator_utils:Accelerator device: 'cpu'
+INFO:docling.utils.accelerator_utils:Accelerator device: 'cpu'
+INFO:docling.utils.accelerator_utils:Accelerator device: 'cpu'
+INFO:docling.models.factories.base_factory:Loading plugin 'docling_defaults'
+INFO:docling.models.factories:Registered picture descriptions: ['vlm', 'api']
+INFO:docling.pipeline.base_pipeline:Processing document UPDATED_EAC_CET_2022_VERSION_JUNE_23_1.pdf

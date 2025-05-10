@@ -17,8 +17,10 @@ import (
 )
 
 const (
-	inputDir              = "../taxlawsanddata-server"
-	outputDir             = "../data_refined_sentences"
+	// inputDir              = "../taxlawsanddata-server"
+	// outputDir             = "../data_refined_sentences"
+	inputDir              = "../data_md"
+	outputDir             = "../data_refined_sentences_md"
 	maxWorkers            = 12  // tune this based on available CPU
 	targetWordCount       = 180 // Aim for around 150-200 words per paragraph
 	overlapSentenceCount  = 3   // Overlap by the last 3 sentences within a paragraph
@@ -92,7 +94,7 @@ func main() {
 func collectFiles(dir string) []string {
 	var files []string
 	_ = filepath.WalkDir(dir, func(path string, d fs.DirEntry, err error) error {
-		if !d.IsDir() && (strings.HasSuffix(path, ".pdf") || strings.HasSuffix(path, ".docx") || strings.HasSuffix(path, ".doc")) {
+		if !d.IsDir() && (strings.HasSuffix(path, ".pdf") || strings.HasSuffix(path, ".docx") || strings.HasSuffix(path, ".doc") || strings.HasSuffix(path, ".md")) {
 			files = append(files, path)
 		}
 		return nil
@@ -138,6 +140,8 @@ func extractText(path string) string {
 		return extractDocxText(path)
 	case ".doc":
 		return convertDocToText(path)
+	case ".md":
+		return extractMarkdownText(path)	
 	default:
 		return ""
 	}
@@ -163,6 +167,16 @@ func extractDocxText(path string) string {
 		return ""
 	}
 	return out.String()
+}
+
+func extractMarkdownText(path string) string {
+    data, err := ioutil.ReadFile(path)
+    if err != nil {
+        fmt.Printf("❌ Markdown reading failed for %s: %v\n", path, err)
+        return ""
+    }
+    
+     return string(data)
 }
 
 func convertDocToText(path string) string {

@@ -1,0 +1,1614 @@
+[
+  {
+    "filename": "Expanded_list_of_taxes",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Tax_obligations_for_different_companies_in_different_sectors_in_Tanzania",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Tax_obligations_for_different_companies_in_different_sectors",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Tax_on_Transportation_and_Storage_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_in_agriculture",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_accommodation_and_food_service_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_activities_of_households_as_employers_of_domestic_personnel_and_undifferentiated_goods",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_Administrative_and_Support_Service_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_arts",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_Construction_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_education_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_Electricity",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_Extraterritorial_organizations_and_bodies_operating",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_financial_and_insurance_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_human_health_and_social_work_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_Information_and_Communication_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_Manufacturing_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_mining_and_quarrying_activities",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_other_service_activities",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_public_administration_and_compulsory_social_security_sector",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_real_estate_activities",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_the_Wholesale_and_Retail_Trade",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_veterinary_activities",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "Taxes_on_water_supply",
+    "taxonomy": "tax/calculations"
+  },
+  {
+    "filename": "African_Barrick_Gold_Plc_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_144_of_2018)_2020_TZCA_1754_(31_August_2020)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "African_Barrick_Gold_Plc_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_350_of_2019)_2020_TZCA_367_(29_July_2020)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Aggreko_International_Projects_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No456_of_2021)_2023_TZCA_17606_(7_September_2023)_(1)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Aggreko_International_Projects_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No456_of_2021)_2023_TZCA_17606_(7_September_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Alliance_One_Tobacco_Tanzania_Ltd_vs_Commissionergeneral_(TRA)_(Civil_Appeal_118_of_2018)_2019_TZCA_556_(7_August_2019)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Baruani_Ramadhani_Mbwana_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Appeal_359_of_2021)_2022_TZCA_711_(16_November_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Bp_Tanzania_vs_The_Commissioner_General_of_The_Tanzania_Revenue_Authority_(Civil_Appeal_125_of_2015)_2016_TZCA_749_(29_February_2016)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Business_Printers_Limited_vs_Commissioner_General_of_Tanzania_Revenue_Authority_and_Another_(Misc_Land_Application_522_of_2021)_2021_TZHCLandD_653_(7_October_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Centre_Stage_Productions_Ltd_vs_Commissioner_General_TRA_(Winding_Up_Cause_22_of_2022)_2023_TZHCComD_112_(20_April_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_and_Another_vs_Mirambo_Limited_(Misc_Civil_Application_3_of_2021)_2021_TZHC_7444_(16_November_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_African_Barrick_Gold_Plc_(Civil_Appeal_Case_No_11_of_2020)_2022_TZCA_119_(17_March_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Ecolab_East_Africa_(Tanzania)_Limited_(Civil_Appeal_35_of_2020)_2021_TZCA_283_(2_July_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Geita_Gold_Mining_Limited_(Civil_Appeal_192_of_2021)_2022_TZCA_567_(22_September_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Jsc_AtomredmeTZoloto_(armz)_(Consolidated_Civil_Appeals_78_of_2018)_2020_TZCA_306_(9_June_2020)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Dianarose_Spareparts_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_245_of_2021)_2022_TZCA_818_(19_December_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Dominion_Tanzania_Limited_vs_Commissioner_General_(TRA)_(Civil_Appeal_159_of_2021)_2022_TZCA_398_(28_June_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "DTP_Terrassment_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_15020_of_2017)_2017_TZCA_306_(9_November_2017)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Engen_Petroleum_(T)_Limited_vs_Tanzania_Revenue_Authority_(Civil_Case_No_36_of_2001)_2001_TZHC_35_(1_December_2001)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Geita_Gold_Mining_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_39_of_2017)_2017_TZCA_314_(7_November_2017)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Gobanya_F_Hezwa_vs_The_Commisioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_83_of_2008)_2010_TZCA_9_(20_July_2010)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Gobanya_F_Hezwa_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_83_of_2008)_2010_TZCA_102_(23_July_2010)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "JOVET_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Application_No22820_of_2021)_2023_TZCA_17493_(11_August_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Jovet_Tanzania_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_217_of_2019)_2021_TZCA_94_(1_April_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Karibu_Textiles_Mills_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Reference_No_21_of_2017)_2021_TZCA_261_(10_June_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Authority_(Civil_Appeal_443_of_2020)_2022_TZCA_636_(19_October_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_218_of_2019)_2021_TZCA_213_(25_May_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_444_of_2020)_2022_TZCA_314_(30_May_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Ltd_vs_Commissioner_General_of_Tanzania_Revenue_Authority_(Civil_Appeal_No_5_B_of_2015)_2016_TZCA_2077_(22_August_2016)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Lakairo_Investment_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_452_of_2021)_2023_TZCA_18021_(29_December_2023)_(1)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Lakairo_Investment_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_452_of_2021)_2023_TZCA_18021_(29_December_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Mantra_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(tra)_(Civil_Appeal_380_of_2021)_2023_TZCA_190_(19_April_2023)_(1)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Mantra_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(tra)_(Civil_Appeal_380_of_2021)_2023_TZCA_190_(19_April_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Mbeya_Inter_Trade_Company_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_108_of_2005)_2005_TZCA_91_(2_December_2005)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Mbonipa_Kasase_vs_Tanzania_Revenue_Authority_(Revision_No_422_of_2016)_2018_TZHCLD_35_(6_April_2018)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Mirambo_Limited_vs_Commissioner_GeneralTanzania_Revenue_Authority_and_Another_(Misc_Civil_Application_57_of_2020)_2021_TZHC_3047_(30_April_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Mkama_Pastory_vs_Tanzania_Revenue_Authority_(Civil_Appeal_95_of_2006)_2007_TZCA_170_(23_February_2007)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Ms_Sopa_Management_Limited_vs_Ms_Tanzania_Revenue_Authority_(Civil_Appeal_25_of_2010)_2012_TZCA_226_(5_March_2012)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Ms_Sopa_Management_Limited_vs_Ms_Tanzania_Revenue_Authority_(Civil_Appeal_25_of_2010)_2012_TZCA_251_(5_March_2012)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Ms_Sopa_Management_Limited_vs_Ms_Tanzania_Revenue_Authority_(Civil_Appeal_25_of_2010)_2012_TZCA_73_(5_March_2012)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Mwenga_Hydro_Limited_vs_Commissioner_Tanzania_Revenue_Authority_(Civil_Appeal_356_of_2021)_2022_TZCA_590_(29_September_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "National_Bank_of_Commerce_Ltd_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_109_of_2020)_2022_TZCA_143_(24_March_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "National_Bank_of_Commerce_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_52_of_2018)_2018_TZCA_83_(9_July_2018)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Ophir_Tanzania_(block_1)_Limited_vs_Commissioner_Genera_Tanzania_Revenue_Authority_(Civil_Appeal_58_of_2020)_2021_TZCA_350_(6_August_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Oryx_Oil_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_87_of_2013)_2016_TZCA_757_(14_March_2016)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Oryx_Oil_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_87_of_2013)_2016_TZCA_758_(14_March_2016)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Pan_African_Energy_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_81_of_2019)_2020_TZCA_54_(6_March_2020)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Pan_African_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_172_of_2020)_2021_TZCA_287_(9_July_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Qbar_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_163_of_2021)_2022_TZCA_381_(16_June_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Robert_Mapesi_vs_Tanzania_Revenue_Authority_(Miscellaneous_Application_No_213_of_2023)_2023_TZHCLD_1425_(27_September_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Salvatory_Nicholaus_Mbishi_vs_Tanzania_Revenue_Authority_(Civil_Appeal_No_09_of_2023)_2023_TZHC_21878_(18_October_2023)_(1)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Salvatory_Nicholaus_Mbishi_vs_Tanzania_Revenue_Authority_(Civil_Appeal_No_09_of_2023)_2023_TZHC_21878_(18_October_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Salvatory_Nicholaus_Mbishi_vs_Tanzania_Revenue_Authority_(Misc_Civil_Application_18_of_2022)_2023_TZHC_17217_(5_May_2023)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Shoprite_Checkers_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_517_of_2020)_2020_TZCA_1894_(14_December_2020)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Singida_Trading_Store_(EA)_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_57_of_2020)_2021_TZCA_179_(6_May_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Statoil_Tanzania_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_372_of_2020)_2022_TZCA_651_(24_October_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Taico_Ltd_vs_Tanzania_Revenue_Authority_(Misc_Civil_Cause_108_of_2003)_2006_TZHC_21_(24_May_2006)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanga_Cement_Public_Limited_Company_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_146_of_2021)_2022_TZCA_386_(17_June_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Dawson_Ishengoma_(Civil_Appeal_No_126_of_2011)_2012_TZCA_254_(29_May_2012)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Edson_Mwamtobe_(Revision_No_81_of_2014)_2015_TZHC_2200_(24_April_2015)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Mnyuku_BrOthers_Enterprises_(Civil_Appeal_25_of_2007)_2010_TZHC_212_(10_March_2010)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Mulamuzi_Byabusha_(Revision_No_312_of_2021)_2022_TZHCLD_597_(27_May_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Mulamuzi_Byabusha_(Revision_No_312_of_2021)_2022_TZHCLD_827_(26_August_2022)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanzania_Tobacco_Processors_Limited_vs_The_Commissioner_General_(TRA)_(Civil_Appeal_174_of_2019)_2021_TZCA_206_(18_May_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tanzania_Zambia_Railways_Authority_vs_Tanzania_Revenue_Authority_(Civil_Case_101_of_2001)_2003_TZHC_80_(28_March_2003)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Temu_vs_Tanzania_Revenue_Authority_(Civil_Appeal_72_of_2002)_2004_TZCA_34_(27_October_2004)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Temu_vs_Tanzania_Revenue_Authority_(Civil_Appeal_72_of_2002)_2004_TZCA_8_(27_October_2004)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "The_Tanzania_Revenue_Authority_vs_Zena_Mohamed_Bahroon_TA_New_Pattaya_Hardware_(Commercial_Case_No_295_of_2002)_2003_TZHCComD_18_(15_April_2003)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Tullow_Tanzania_Bv_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_24_of_2018)_2018_TZCA_82_(4_July_2018)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Unilever_Tea_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Appeal_No_401_of_2020)_2021_TZCA_623_(1_November_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Vodacom_Tanzania_Ltd_Company_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_117_of_2019)_2020_TZCA_349_(14_July_2020)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "Vodacom_Tanzania_Public_Limited_Company_vs_Commission_General_Tanzania_Revenue_Authority_(Civil_Application_101_of_2021)_2021_TZCA_400_(24_August_2021)",
+    "taxonomy": "tax/cases/comissioner"
+  },
+  {
+    "filename": "African_Barrick_Gold_Plc_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_144_of_2018)_2020_TZCA_1754_(31_August_2020)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Aggreko_International_Projects_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No456_of_2021)_2023_TZCA_17606_(7_September_2023)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Ahmed_Teja_ta_Almas_Autoparts_Limited_vs_Commissioner_General_TRA_(Civil_Appeal_283_of_2021)_2022_TZCA_724_(22_November_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Baruani_Ramadhani_Mbwana_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Appeal_359_of_2021)_2022_TZCA_711_(16_November_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Commissioner_General_(TRA)_vs_Crje_Estate_Limited_(Civil_Appeal_370_of_2021)_2022_TZCA_614_(7_October_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_African_Barrick_Gold_Plc_(Civil_Appeal_Case_No_11_of_2020)_2022_TZCA_119_(17_March_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Ecolab_East_Africa_(Tanzania)_Limited_(Civil_Appeal_35_of_2020)_2021_TZCA_283_(2_July_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Geita_Gold_Mining_Limited_(Civil_Appeal_192_of_2021)_2022_TZCA_567_(22_September_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Jsc_AtomredmeTZoloto_(armz)_(Consolidated_Civil_Appeals_78_of_2018)_2020_TZCA_306_(9_June_2020)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Dianarose_Spareparts_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_245_of_2021)_2022_TZCA_818_(19_December_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Dominion_Tanzania_Limited_vs_Commissioner_General_(TRA)_(Civil_Appeal_159_of_2021)_2022_TZCA_398_(28_June_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "JOVET_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Application_No22820_of_2021)_2023_TZCA_17493_(11_August_2023)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Jovet_Tanzania_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_217_of_2019)_2021_TZCA_94_(1_April_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Authority_(Civil_Appeal_443_of_2020)_2022_TZCA_636_(19_October_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_218_of_2019)_2021_TZCA_213_(25_May_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_444_of_2020)_2022_TZCA_314_(30_May_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Lakairo_Investment_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_452_of_2021)_2023_TZCA_18021_(29_December_2023)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Mantra_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(tra)_(Civil_Appeal_380_of_2021)_2023_TZCA_190_(19_April_2023)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Mlimani_Holdings_Limited_vs_The_Commissioner_General_(Civil_Appeal_265_of_2021)_2022_TZCA_437_(18_July_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Mwenga_Hydro_Limited_vs_Commissioner_Tanzania_Revenue_Authority_(Civil_Appeal_356_of_2021)_2022_TZCA_590_(29_September_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "National_Bank_of_Commerce_Ltd_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_109_of_2020)_2022_TZCA_143_(24_March_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Ophir_Tanzania_(block_1)_Limited_vs_Commissioner_Genera_Tanzania_Revenue_Authority_(Civil_Appeal_58_of_2020)_2021_TZCA_350_(6_August_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Pan_African_Energy_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_81_of_2019)_2020_TZCA_54_(6_March_2020)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Pan_African_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_172_of_2020)_2021_TZCA_287_(9_July_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Qbar_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_163_of_2021)_2022_TZCA_381_(16_June_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Shoprite_Checkers_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_517_of_2020)_2020_TZCA_1894_(14_December_2020)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Singida_Trading_Store_(EA)_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_57_of_2020)_2021_TZCA_179_(6_May_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Star_Media_Tanzania_Limited_vs_Tanzania_Revenue_Uthority_(Civil_Appeal_211_of_2019)_2021_TZCA_191_(7_May_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Statoil_Tanzania_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_372_of_2020)_2022_TZCA_651_(24_October_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Tanga_Cement_Public_Limited_Company_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_146_of_2021)_2022_TZCA_386_(17_June_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Tanzania_Tobacco_Processors_Limited_vs_The_Commissioner_General_(TRA)_(Civil_Appeal_174_of_2019)_2021_TZCA_206_(18_May_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "TOTAL_Tanzania_Limited_vs_Commissioner_(Civil_Appeal_No47_of_2022)_2023_TZCA_17559_(30_August_2023)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Unilever_Tea_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Appeal_No_401_of_2020)_2021_TZCA_623_(1_November_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Vodacom_Tanzania_Ltd_Company_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_117_of_2019)_2020_TZCA_349_(14_July_2020)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Vodacom_Tanzania_Public_Co_T_Ltd_vs_Commissioner_General_TRA_(Civil_Application_465_of_2019)_2020_TZCA_64_(10_March_2020)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Vodacom_Tanzania_Public_Limited_Company_vs_Commission_General_Tanzania_Revenue_Authority_(Civil_Application_101_of_2021)_2021_TZCA_400_(24_August_2021)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "Zanzibar_Telecom_Ltd_vs_The_Commissioner_General_(TRA)_(Civil_Application_222_of_2021)_2022_TZCA_373_(17_June_2022)",
+    "taxonomy": "tax/cases/tax_revenue_appeals"
+  },
+  {
+    "filename": "FAQs_for_CGT",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQS_for_CIT",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQs_for_Customs_Duty",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQs_for_Excise_Duty",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQs_for_PAYE",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQs_for_SDL",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQs_for_Stamp_Duty",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQs_for_VAT",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "FAQs_for_WHT",
+    "taxonomy": "tax/faqs"
+  },
+  {
+    "filename": "2017EMPLOYERGUIDEBOOKLET",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "APPENDIX_I-_USER_MANUAL_FOR_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_PROVIDERS-UPDATED",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "ApplicationForPrivateClassRuling",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "binafsi-TIN",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "branchTIN",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "BULK_EMPLOYEES_-_UPLOADING_BY_EXCEL_USER",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c1-overtime-request",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c10-application-to-proceed-to-sufferance-wharf",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c11-landing-certificate",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c12-application-release-perishables-or-other-goods-prior-to-payment-of-duty",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c13-application-inward-or-outward-processing",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c14-certificate-of-clearance",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c15-request-repack-warehoused-goods",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c16-request-transfer-ownership-warehoused-goods",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c18-application-licence-premises-used-bonded-warehouse-bonded-factory-or-internal-depot",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c19-licence-private-general-bonded-warehouse-or-bonded-factory-or-internal-container-depot",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c2-cargo-manifest",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c20-application-customs-agents-licence-year",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c21-customs-agents-licence",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c22-application-ship-goods-prior-to-entry",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c23-application-transfer-stores-of-aircraft-or-vessel",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c24-application-to-transfer-stores-aircraft-or-vessel",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c25-application-to-transfer-stores-of-aircratf-or-vessel",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c26-application-refund-deposit-or-cancellation-of-bond",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c27-transire",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c28-license-vehicle-or-vessel-conveying-transit-goods",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c29-certificate-approval-for-licenses-motor-vehicles",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c3-parcel-list",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c30-duty-drawback-rate-yield-notification-form",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c31-duty-drawback-debenture-claim-fForm",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c32-temporary-exportation-importation-road-vehicles-within-eac-and-temporary-importaion-from-comesa-sadc",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c33-application-rebate-remission-refund",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c34-other-refunds",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c35-request-settlement-case",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c36-declaration-particluars-customs-value",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c37-notice-of-seizure",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c38-appliction-payment-process-from-sale-of-goods",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c39-application-licensing-vessels-vehicles-conveyance-goods-under-customs-control",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c4-general-declaration-aircraft",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c40-licence-vehicle-or-vessel-conveying-goods-under-customs-control",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c5-passenger-list",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c6-declaration-advice-consumable-stores",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c7-crew-declaration-form",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c8-application-to-break-bulk-prior-to-making-report",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "c9-application-to-amend-manifest",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "canada",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB-BOND-TO-SECURE-CUSTOMS-DUTIES",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB10-BOND_FOR_THE_RE-EXPORTATION_OF_IMPORTED_GOODS_DELIVERED_WITHOUT_PAYMENT_OF_DUTY",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB11-BOND_FOR_CUSTOMS_AGENTS",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB12-BOND_FOR_THE_CONVEYANCE_OF_GOODS_SUBJECT_TO_CUSTOMS_CONTROL_(1)",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB12-BOND_FOR_THE_CONVEYANCE_OF_GOODS_SUBJECT_TO_CUSTOMS_CONTROL",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB4-BONDFOR_EXPORTATION",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB5-BOND_FOR_SHIPMENT_OF_STORES",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB6-GENERAL_BOND_FOR_SECURITY_OF_WAREHOUSED_GOODS",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB7-BOND_FOR_GOODS_TO_BE_SHIPPED_PRIOR_TO_ENTRY",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB8-TRANSIT_BOND",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CB9-TRANSHIPMENT_BOND",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CERTIFICATE_OF_GENUINENESS",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "civil-appeal",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Civil_Appeal_No_107_of_2020_Vodacom_Tanzania_PLC_vs_Commissioner_General_TRA",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Civil_Appeal_No_172_of_2020_Pan_African_Energy_Tanzania_Limited_vs_Commissioner_General_TRA",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Civil_Appeal_No_57_of_2020_Singita_Trading_Store_EA_Limited_vs_Commissioner_General_TRA",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CLIENT_SERVICE_CHARTER_-_ENGLISH_2024",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Denmark",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "F-ITD-066-B-Customs-System-External-User-Access-Form",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "F-ITD-067-B-Customs-License-Application-System-User-Access-Form",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Finland",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "FORM_2",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "FORM_I",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "GUIDE_TO_OBJECTION_AND_APPEALS_PROCEDURES_2022_00000002",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "HIGHLIGHT_ON_DIRECTORS_REMUNERATIONS_1",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "IMPLEMENTATION-OF-AEO-PROGRAM-IN-TANZANIA",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "IMPORTANT_POINTS_TO_BE_CONSIDERED_BY_THE_TAX_PAYER",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "India",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Italy",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "ITX_240.02.B_-_VAT_monthly_return",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "ITX_241.02.B_-_VAT_monthly_return_declaration_of_details",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "ITX10601E_Storage_Facility_Registration_Form_pdf",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "ITX25101E_Return_of_Money_Transfer_Levy_Form-_updated_1",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "ITX25801E---forms-1",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "LIST_OF_EFDVEFD_APPROVED_SUPPLIER__JANUARY_2023",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "MV.10",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "MV.40",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "NON-RESIDENT_ELECTRONIC_SERVICE_PROVIDER_-_RETURN_FILING_AND_PAYMENT_USER_MANUAL_2442023_UPDATE",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "non_profit_organizations_kit_2024",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Norway",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "OSB-FREQUENTLYASKEDQUESTIONS",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Property_Registration_Form",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Questions_and_answers_on_single_customs_territory",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Remission_of_Penalties_and_Interest_User_Guide_Taxpayers",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Single_Customs_Territory_brochure",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "SINGLEWINDOWSYSTEMeng-web",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Southafrica",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Sweden",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "TANCIS-Brochure",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Tax_rights_and_obligations_to_diaspora",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "taxconsultantsform",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "TAXES_AND_DUTIES_2023_-_2024",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "TIN-kampuni",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "TRA_Monthly_Income_Tax_2023_24",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "UPDATED_EAC_CET_2022_VERSION_JUNE_23_1",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "USER_GUIDE_DECLARANT_-_AUDIT_FIRM_APPOINTMENT_PROCESS__E_FILING",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "VAT-ON-FINANCIAL--SERVICES-01",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "VAT-ON-TOURISM-SERVICES",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "VAT_Refund_User_Guide_Taxpayers",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "WHT_USER_MANUAL_UPDATED",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Withholding-Tax-on-payment-for-Goods",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "Zambia",
+    "taxonomy": "tax/info"
+  },
+  {
+    "filename": "CHAPER_399-THE_TANZANIA_REVENUE_AUTHORITY_ACT_-_01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_124-THE_MOTOR_VEHICLES__TAX_ON_REGISTRATION_-_01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_147-THE_EXCISE__MANAGEMENT_AND_TARIFF__ACT",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_148-THE_VALUE_ADDED_TAX_ACT-1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_220-THE__ROAD_AND_FUELS_TOLLS_ACT2019-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_264-THE_PORT_SERVICE_CHARGE_ACT-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_289-THE_LOCAL_GOVERNMENT_AUTHORITIES__RATING__ACT-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_290-THE_LOCAL_GOVERNMENT_FINANCE_ACT-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_328-THE_OILD_AND_GAS_REVENUES_MANAGEMENT_ACT-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_332-THE_INCOME_TAX_ACT-1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_365-THE_AIRPORT_SERVICE_CHARGE_ACT-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_41-THE_GAMING_ACT_167-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "CHAPTER_438-THE_TAX_ADMINISTRATION_ACT-1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "EAC_Customs_2011_edited",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "EAC_Customs_Regulations",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "EAC-OSBP-REGULATIONS-2017_1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "EACRULESOFORIGIN2015",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "EAC_Compliance_and_Enforcement[1]",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "EAC_One_Stop_Border_Post_Act_2016_1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "EAST_AFRICAN_COMMUNITY_CUSTOMS_MANAGEMENT_(DUTY_REMISSION)",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "Finance_Act_2024",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "FOREIGN_VEHTRANSIT_CHARGES_ACT_with_amendments_to_2019",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN-478K_THE_PUBLIC_FINANCE_AMENDMENT_REGULATIONS_2022",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN-478V_THE_NATIONAL_PAYMENT_SYSTEMS_ELECTRONIC_MONEY_TRANSACTION_LEVY_REGULATIONS_2022",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN-478W_THE_TAX_ADMINISTRATION_GENERAL_AMENDMEN_220715_082221",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN_448W_-THE_VAT_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_SUPPLIERS_AMENDMENT_REGULATIONS_2023",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN_448X_-THE_INCOME_TAX_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_SUPPLIERS_AMENDMENT_REGULATIONS_2023",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN_448Y_-THE_VALUE_ADDED_TAX_GENERAL_AMENDMENT_REGULATIONS_2023",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN_NO_478Q_THE_VALUE_ADDED_TAX_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_SUPPLIERS_REGULATIONS_2022-1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN_NO_478T_THE_GAMING_INTERNET_GAMING_REGULATIONS_2022",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "GN_NO_478U_THE_INCOME_TAX_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_PROVIDERS_REGULATIONS_2022",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "ROAD_TRAFFIC_ACT_Motor_Vehicle_Regulation",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "Stamp_Duty_Act_amended_to_2019-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "Subsidiary_legislation_The_Interpretation_of_Laws_TRectification_of_Printing_Errors_The_Finance_Act__2022_Order_2022",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "Tax-Admin-General-Amendment-regulations-2017-",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "Tax_Revenue_Appeals_Act_amended_to_2019-01",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "TDL-Regulations",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_EXCISE_(MANAGEMENT_AND_TARIFF)_(LICENSING_AND_ADMINISTRATION",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "The_excise_(Management_and_Tariff)_Act",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_GAMING_(AMENDMENT)_REGULATIONS,_2022",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "The_Hotels_Act",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_INCOME_TAX_(EXEMPTION)_(EXPATRIATES_EMPLOYEES)",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "The_Income_Tax_Regulation",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_LAWS_REVISION_(THE_RECTIFICATION_OF_PRINTING_ERRORS)",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_TAX_ADMINISTRATION_(REMISSION_OF_INTERESTS_AND_PENALTIES)",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_VALUE_ADDED_TAX_(EXEMPTION_MANAGEMENT_PROCEDURES)_REGULATIONS,",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_VALUE_ADDED_TAX_(GENERAL)_(AMENDMENT)_REGULATIONS,_2021",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "The-Fire-and-Rescue-Force-Act-regulation-",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "The-Road-Traffic-Motor-Vehicles-REgistration-Amendment-1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_CUSTOMS_MANAGEMENT_AND_TARIFF_ACT_RE_2019",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_EAST_AFRICAN_COMMUNITY_CUSTOMS_MANAGEMENT_ACT_RE_2017",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_ELECTRONIC_TAX_STAMPS_REGULATIONS_2018_Docs_1",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_GAMING_AMENDMENT_REGULATIONS_2023",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_INCOME_TAX_TRANSFER_PRICING_REGULATIONS_2014",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_TAX_ADMINISTRATIONREGISTRATION_OF_SMALL_VENDORS_AND_SERVICE_PROVIDERS_REGULATIONS_2020",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "THE_VOCATIONAL_EDUCATION_AND_TRAINING_ACT_RE_2019",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "TP_Guideline",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "Value-Added-Tax-General-Amendment-Regulations-2018--new-version",
+    "taxonomy": "tax/laws/main"
+  },
+  {
+    "filename": "Finance_Act_2024",
+    "taxonomy": "tax/laws/others"
+  },
+  {
+    "filename": "laws_list",
+    "taxonomy": "tax/laws/others"
+  },
+  {
+    "filename": "TRA_Monthly_Income_Tax_2023_24",
+    "taxonomy": "tax/laws/others"
+  },
+  {
+    "filename": "tz-act-2020-8-publication-document",
+    "taxonomy": "tax/laws/others"
+  },
+  {
+    "filename": "tz-act-2021-3-publication-document",
+    "taxonomy": "tax/laws/others"
+  },
+  {
+    "filename": "tz-act-2022-5-publication-document",
+    "taxonomy": "tax/laws/others"
+  },
+  {
+    "filename": "tz-act-2023-7-publication-document",
+    "taxonomy": "tax/laws/others"
+  },
+  {
+    "filename": "CSOs-TAX-COMPLIANCE-TOOLKIT-A5-_opt(1)",
+    "taxonomy": "tax/specialized"
+  },
+  {
+    "filename": "Tax_Guide_for_Contractors_in_Tanzania",
+    "taxonomy": "tax/specialized"
+  },
+  {
+    "filename": "Taxation_of_Specialized_industries",
+    "taxonomy": "tax/specialized"
+  },
+  {
+    "filename": "Applicable_Taxes_Overview",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Capital_Gains_Tax",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Corporate_Income_Tax",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Customs_Duty",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Excise_Duty",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Pay_As_You_Earn",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Skills_Development_Levy_SDL",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Stamp_Duty",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Value_Added_Tax",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Calculations_for_Withholding_tax",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Tanzania_Tax_Sumary",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Tax_Updates_2024",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Ace_Distributors_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_16320_of_2018)_2018_TZCA_43_(28_June_2018)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Aitel_Tanzania_Ltd_vs_Tanzania_Revenue_Authority_(Civil_Application_No_148_of_2014)_2016_TZCA_821_(24_June_2016)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Alliance_One_Tobacco_Tanzania_Limited_vs_Commissioner_General_(TRA)_(Civil_Appeal_No_118_of_2018)_2019_TZCA_242_(7_August_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Atlas_Copco_Tanzania_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_167_of_2019)_2020_TZCA_317_(17_June_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Bin_Johar_General_Trading_LLC_vs_The_Commissioner_General_(T)_Revenue_Authority_and_2_Others_(Miscellaneous_Cause_No_35_of_2006)_2007_TZHCComD_39_(14_February_2007)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Bryson_Bwire_Mbonde_vs_Tanzania_Revenue_Authority_(Civil_Appeal_No_88_of_2018)_2021_TZCA_280_(5_July_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Celtel_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_56_of_2018)_2019_TZCA_563_(6_May_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_(TRA)_vs_Pan_African_Energy_Tanzania_Limited_(Civil_Appeal_No_146_of_2015)_2016_TZCA_807_(16_May_2016)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_Another_vs_Milambo_Limited_(Civil_Appeal_62_of_2022)_2022_TZCA_348_(14_June_2022)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_TRA_vs_Aggreko_International_Projects_Ltd_(Civil_Appeal_No_148_of_2018)_2019_TZCA_178_(4_June_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Jsc_AtomredmeTZoloto_(armz)_(Civil_Appeal_No_100_of_2017)_2017_TZCA_158_(3_November_2017)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_Jsc_AtomredmeTZoloto_(armz)_(Consolidated_Civil_Appeals_No_78_of_2018)_2019_TZCA_533_(29_April_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_Tanzania_Revenue_Authority_vs_New_Musoma_Textiles_Ltd_(Civil_Appeal_No_119_of_2019)_2020_TZCA_284_(9_June_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_of_Tanzania_Revenue_Authority_Another_vs_Urban_J_Mtui_(Civil_Application_532_of_2021)_2023_TZCA_17264_(18_May_2023)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Commissioner_General_of_Tanzania_Revenue_Authority_Another_vs_Urban_J_Mtui_(Civil_Application_532_of_2021)_2023_TZCA_17264_(18_May_2023)_(1)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "D_B_Shapriya_versus_Tanzania_Revenue_Authority_(TRA)_another_(Misc_Civil_Application_no_493_of_2023)_2023_TZHC_21615_(29_September_2023)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "D_B_Shapriya_versus_Tanzania_Revenue_Authority_(TRA)_another_(Misc_Civil_Application_no_493_of_2023)_2023_TZHC_21615_(29_September_2023)_(1)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "East_African_Community_Customs_Management_Act,_2004_(Revised_Edition_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Etablissments_Maurel_Prom_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_391_of_2020)_2021_TZCA_629_(2_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Feet_Monitoring_system_Limited_(_Uganda)_vs_Tanzania_Revenue_Authority_Another_(Misc_Application_Cause_73_of_2021)_2022_TZHCComD_46_(14_February_2022)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Game_Discount_World_Tanzania_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_22_of_2022)_2023_TZCA_17755_(13_October_2023)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Game_Discount_World_Tanzania_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_22_of_2022)_2023_TZCA_17755_(13_October_2023)_(1)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Geita_Gold_Mine_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_89_of_2019)_2020_TZCA_292_(15_June_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Geita_Gold_Mine_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_90_of_2019)_2020_TZCA_285_(10_June_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Geita_Gold_Mining_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_181_of_2020)_2021_TZCA_626_(2_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Geita_Gold_Mining_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_132_of_2015)_2019_TZCA_177_(25_June_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Geita_Gold_Mining_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_389_of_2017)_2019_TZCA_75_(4_April_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Hellenic_Foundation_of_Tanzania_Ltd_ta_St_Constantines_International_School_vs_Commissioner_General_Tanzania_Authority_(Civil_Appeal_No_255_of_2020)_2021_TZCA_648_(4_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX245.02.E_-_Application_for_Registration",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX246.02.E_-_Application_for_Cancelation_of_VAT_Registration",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX247.02.E_-_Application_For_VAT_Deferment",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX260.02.E_-_Application_for_Fund_Refund_of_Negative_net_amount",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX261.02.E_-_Checklist_for_the_claimants_of_negative_amount",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX262.02.E_-_Claim_for_refund_of_VAT",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX263.02.E_-_Application_For_Utilization_Of_VAT_Relief",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX264.02.E_-_Adjustment_Notes",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "ITX266.02.E_-_Notification_For_Input_Tax_Credit",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Islam_Saleh_Nahdi_Ltd_vs_The_Commissioner_General_(T)_Revenue_Authority_2_Others_(Commercial_Case_No_19_of_2009)_2009_TZHCComD_18_(14_December_2009)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Islam_Saleh_Nahdi_Ltd_vs_The_Commissioner_General_(T)_Revenue_Authority_2_Others_(Misc_Civil_Cause_No_5_Of_2010)_2010_TZHCComD_34_(24_September_2010)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "John_Epimaki_Kessy_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_388_of_2020)_2021_TZCA_627_(2_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "KCB_Bank_Tanzania_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_95_of_2015)_2016_TZCA_764_(23_February_2016)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Kilombero_Sugar_Co_Ltd_vs_Commissioner_General_(TRA)_(Civil_Appeal_No_261_of_2018)_2020_TZCA_308_(19_June_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Authority_(Civil_Appeal_No_5_of_2015)_2016_TZCA_854_(22_August_2016)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "MVAL_Qadery_4_Another_vs_Commissioner_of_Customs_and_Excise_(T)_Revenue_Authority_(Commercial_Case_No_9_of_2004)_2004_TZHCComD_63_(8_June_2004)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Mantra_Tanzania_Ltd_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_430_of_2020)_2021_TZCA_657_(5_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Marie_Stopes_(T)_Ltd_vs_The_Commissioner_General_(T)_Revenue_Authority_Another_(Commercial_Case_No_10_of_2004)_2004_TZHCComD_64_(7_May_2004)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Mbeya_Intertrade_Company_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_63_of_2016)_2016_TZCA_840_(3_October_2016)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "National_Bank_of_Commerce_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_251_of_2018)_2020_TZCA_309_(16_June_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "National_Microfinance_Bank_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_168_of_2018)_2019_TZCA_182_(1_July_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Panafrican_Energy_Tanzania_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_449_of_2019)_2019_TZCA_568_(1_November_2019)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Panafrican_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_426_of_2020)_2021_TZCA_630_(2_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Prosper_Ndesokia_Another_vs_Commissioner_General_Tanzania_Revenue_Authority_Another_(Misc_Land_Application_973_of_2017)_2018_TZHCLandD_453_(13_July_2018)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Resolute_(T)_Ltd_vs_Commissioner_General_(T)_Revenue_Authority_(Misc_Commercial_Cause_No_27_of_2005)_2005_TZHCComD_47_(2_September_2005)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Sbc_Tanzania_Limited_vs_Commissioner_General_of_Tanzania_Authority_(Civil_Appeal_No_54_of_2013)_2016_TZCA_864_(22_August_2016)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "School_of_St_Jude_Ltd_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_21_of_2018)_2018_TZCA_49_(10_July_2018)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Shana_General_Store_Another_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_308_of_2020)_2021_TZCA_635_(3_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Shana_General_Store_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_392_of_2020)_2021_TZCA_633_(3_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Shana_General_Stores_Limited_vs_Commissioner_General_(TRA)_(Civil_Appeal_No_369_of_2020)_2021_TZCA_643_(4_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Shoprite_Chackers_T_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_307_No_of_2020)_2021_TZCA_622_(29_October_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Shoprite_Checkers_Tanzania_Limited_vs_Commissioner_General_of_Tanzania_Revenue_Authority_(Civil_Application_No358_of_2021)_2023_TZCA_17379_(3_July_2023)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Shoprite_Checkers_Tanzania_Limited_vs_Commissioner_General_of_Tanzania_Revenue_Authority_(Civil_Application_No358_of_2021)_2023_TZCA_17379_(3_July_2023)_(1)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "TOICO_Ltd_vs_Tanzania_Revenue_Authority_(Misc_Civil_Cause_108_of_2003)_2006_TZHC_180_(24_May_2006)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Tanelec_Ltd_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_20_of_2018)_2018_TZCA_50_(3_July_2018)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Ibrahimu_Marwa_Haulage_Ltd_Another_(Civil_Appeal_13_of_2021)_2022_TZHC_11412_(18_July_2022)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Khadija_Lumbi_(Consolidated_Revision_No_220_228_of_2023)_2023_TZHCLD_1497_(29_November_2023)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Tanzania_Revenue_Authority_vs_Tango_Transport_Company_Ltd_(Civil_Appeal_No_84_of_2009)_2016_TZCA_84_(27_October_2016)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Tanzania_Zambia_Railway_Authority_vs_Tanzania_Revenue_Authority_(Civil_Case_101_of_2002)_2003_TZHC_6_(28_March_2003)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Universal_African_Logistics_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Appeal_No_431_of_2020)_2021_TZCA_644_(4_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Urban_J_Mtui_vs_Commissioner_General_Tanzania_Revenue_Authority_Another_(Civil_Application_No_265_of_2017)_2020_TZCA_1827_(23_October_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Urban_J_Mtui_vs_Commissioner_General_Tanzania_Revenue_Authority_Another_(Civil_Application_No_265_of_2017)_2020_TZCA_1838_(23_October_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Vodacom_Tanzania_Public_Limited_Company_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_425_of_2020)_2021_TZCA_659_(5_November_2021)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "Vodacom_Tanzania_Public_Ltd_Company_vs_Commissioner_General_TRA_(Civil_Appeal_No_107_of_2020)_2020_TZCA_1797_(5_October_2020)",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "en-1654082087-Gaming_Act_Cap_41_RE2019",
+    "taxonomy": "tax/taxes"
+  },
+  {
+    "filename": "en-1679660251-TAX_ADMINISTRATION_ACT_R.E_2019",
+    "taxonomy": "tax/taxes"
+  }
+]

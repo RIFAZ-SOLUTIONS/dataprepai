@@ -5,8 +5,8 @@ import multiprocessing
 from transformers import pipeline
 
 # Choose models
-question_generation_model_name = 'google/flan-t5-small'
-answer_generation_model_name = 'google/flan-t5-xl'
+question_generation_model_name = 'google/flan-t5-xl'
+answer_generation_model_name = 'google/flan-t5-xxl'
 
 # Load the pipelines (load once per process for efficiency)
 def load_pipelines():
@@ -234,8 +234,8 @@ def process_directory(directory, output_dir, num_processes):
         print("No .txt files found in the specified directory.")
 
 if __name__ == "__main__":
-    input_path = "data_refined_sentences"
-    output_directory = "finetuning"
+    input_path = "data_refined_sentences_md"
+    output_directory = "finetuning_md"
     os.makedirs(output_directory, exist_ok=True)
 
     num_cores = 24  # Use the number of cores you have
